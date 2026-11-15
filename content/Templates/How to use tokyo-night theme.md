@@ -22,12 +22,7 @@ to check there are no new commits left behind
 if the github url sync disappears *and goes back to github.com*
 use `git remote set-url origin https://github.com/Mononoke024/digital-garden.git`
 
-
-
-
-
-```
-
+# Header 1
 
 ## H2
 ### H3

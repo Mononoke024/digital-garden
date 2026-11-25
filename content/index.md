@@ -13,5 +13,8 @@ WIP: 15 Nov 2026
 ###### The Garden - Time stops, and Space is endless
 An oasis of respite from the lull of everyday life. Where lush ideas come forth, intertwine, and bear the fruit of creativity. 
 
+#### Voids to explore
+- [[Rewiring/ |Rewiring - exploring my own neural plasticity]]
+
 
 

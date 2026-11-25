@@ -1,6 +1,5 @@
 ---
 title: Space and Time
-tags:
 ---
 My directory of contents will go here I think..
 WIP: 15 Nov 2026
@@ -13,4 +12,3 @@ WIP: 15 Nov 2026
 (I will add an image here)
 ###### The Garden - Time stops, and Space is endless
 An oasis of respite from the lull of everyday life. Where lush ideas come forth, intertwine, and bear the fruit of creativity. 
-
